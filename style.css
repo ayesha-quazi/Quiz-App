@@ -17,3 +17,21 @@ body{
     border-radius: 10px;
     padding: 30px;
 }
+
+.app h1{
+    font-size: 25px;
+    font-weight: 600;
+    color: #1e6d83;
+    border-bottom: 1px solid #333;
+    padding-bottom: 30px;
+}
+
+.quiz{
+    padding: 20px 0;
+}
+
+.quiz h2{
+    font-size: 18px;
+    font-weight: 600;
+    color: #186c84;
+}
